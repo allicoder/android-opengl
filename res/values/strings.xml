@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">LaunchActivity</string>
+  <string name="app_name">OpenGL testing</string>
+  <string name="launcher_title">OpenGL testing</string>
+  <string name="game_title">OpenGL game</string>
+
+  <string name="startBtnText">Start playing</string>
 </resources>
